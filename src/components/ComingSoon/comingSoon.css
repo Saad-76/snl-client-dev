@@ -2,8 +2,14 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 14%;
+
     justify-content: center;
     
+}
+.comingSoon-content-style h3{
+    font-family: State_Secret;
+
 }
 .image-section-outer-style{
     display: flex;

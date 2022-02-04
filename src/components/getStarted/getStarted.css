@@ -104,7 +104,9 @@ max-width: 500px;
     transform: rotateY(0deg);
   }
 .get-Started-content p{
-    max-width: 500px;
+    /* max-width: 500px; */
+    max-width: 407px;
+    text-align: justify;
 
 }
   @media only screen and (max-width: 900px) {

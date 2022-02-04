@@ -8,7 +8,11 @@
     flex-direction: row;
 }
 .content-mindSection-style p{
-    max-width: 470px;
+    /* max-width: 470px; */
+    
+        max-width: 407px;
+        text-align: justify;
+
 
 }
 .heading-mindSection-style {
