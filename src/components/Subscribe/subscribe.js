@@ -1,5 +1,6 @@
 import {React, useState} from "react";
 import "./subscribe.css";
+import {Link} from "react-router-dom"
 
 const Subscribe = () => {
 	const[ user, setUser]= useState({
@@ -30,12 +31,13 @@ onChange={(e)=>{
 }}
                   />
 
-                  <button
+             <Link to="/home">     <button
                     className="subscribe-button-style-subscribe"
-                    type="submit"
+                   
                   >
                     Subscribe
                   </button>
+                  </Link>
                   {/* <span className="fa fa-paper-plane-o"> */}
                 </div>
               </form>

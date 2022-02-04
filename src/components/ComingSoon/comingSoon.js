@@ -6,13 +6,15 @@ const ComingSoon=()=> {
   return (
       <>
 <div className="col-md-12 comingSoon-main-style">
+    <div className="container">
     <div className="col-md-6 comingSoon-content-style">
-<h1>Coming Soon...?</h1>
+<h3>Coming Soon...?</h3>
     </div>
     <div className="col-md-6 ">
         <div className="image-section-outer-style">
 <img  className="image-section-inner-style" src={Image} alt=""/>
 </div>
+    </div>
     </div>
 
 </div>

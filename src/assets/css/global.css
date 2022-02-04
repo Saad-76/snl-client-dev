@@ -486,6 +486,8 @@ ol {
 .section-heading h2 {
     font-size: 30px;
     text-transform: capitalize;
+    font-family: State_Secret;
+
     margin-bottom: 15px;
 }
 
