@@ -143,6 +143,7 @@ import Monkey4 from "../../assets/img/test-img/Monkey4.jpg"
 import Monkey5 from "../../assets/img/test-img/Monkey5.jpg"
 import Monkey6 from "../../assets/img/test-img/Monkey6.jpg"
 
+import QuestionMark from "../../assets/img/test-img/QuestionMark.jpg"
 
 
 
@@ -295,6 +296,6 @@ export {
 		Monkey5,
 		Monkey6,
 
-
+QuestionMark,
 
 }

@@ -68,7 +68,7 @@ const GetStarted = () => {
       <div className="about-top-pad">
         <InfoComponent
           // titleSm='About Us.'
-          titleLg=" 	Get Started
+          titleLg=" 	GET STARTED
               "
           text=" We have different assets in our collection 
               "
@@ -89,12 +89,12 @@ const GetStarted = () => {
             </div>
           </div>
           <div className=" get-Started-content">
-            <h3> Browse our collections</h3>
+            <h3> Browse Our Collections</h3>
             <p>
               We have different assets in our collection ranging from Sports
               memorabilia and coins to trading cards.{" "}
             </p>
-            <h3> Pick your number</h3>
+            <h3> Pick Your Number</h3>
             <p>
               Each fractionalised piece is uniquely numbered out of 500. Each
               one is different from the other.

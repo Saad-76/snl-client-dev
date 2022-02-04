@@ -36,7 +36,7 @@ const  AboutUs=()=> {
       <div className="about-top-pad">
         <InfoComponent
               // titleSm='About Us.'
-              titleLg=' 	How we work
+              titleLg=' 	HOW WE WORK
               '
               text=' We source the most valuable assets
               '

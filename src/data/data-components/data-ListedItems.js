@@ -31,6 +31,8 @@ import {
 		Monkey5,
 		Monkey6,
 
+		QuestionMark,
+
 
 } from '../../utils/allImgs'
 
@@ -38,56 +40,56 @@ import {
  
 export const ListedItemsData = [
 	{
-		imgBig:ListedItemsArtwork1,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors2,
 		title:'@Smith Wright',
 		price:0.081,
 		bid:0.081,
 	},
 	{
-		imgBig:ListedItemsArtwork2,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors3,
 		title:'@Smith Wright',
 		price:0.081,
 		bid:0.081,
 	},
 	{
-		imgBig:ListedItemsArtwork3,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors8,
 		title:'@Smith Wright',
 		price:0.081,
 		bid:0.081,
 	},
 	{
-		imgBig:ListedItemsArtwork4,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors6,
 		title:'@Smith Wright',
 		price:0.081,
 		bid:0.081,
 	},
 	{
-		imgBig:ListedItemsArtwork5,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors2,
 		title:'@Smith Wright',
 		price:0.081,
 		bid:0.081,
 	},
 	{
-		imgBig:ListedItemsArtwork6,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors3,
 		title:'@Smith Wright',
 		price:0.081,
 		bid:0.081,
 	},
 	{
-		imgBig:ListedItemsArtwork7,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors8,
 		title:'@Smith Wright',
 		price:0.081,
 		bid:0.081,
 	},
 	{
-		imgBig:ListedItemsArtwork8,
+		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors6,
 		title:'@Smith Wright',
 		price:0.081,

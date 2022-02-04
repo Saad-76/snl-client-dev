@@ -19,7 +19,7 @@ function ListedItemsContainer(){
           <div className="team-section-padding-top">
             <InfoComponent
               titleSm='Our Collection'
-              titleLg='Collection'
+              titleLg='COLLECTION'
               text='They’ve 
               worked with Marvel, Titan and Warner Bros among others.'
             />
