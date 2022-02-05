@@ -8,6 +8,8 @@ import { useLocation } from "react-router-dom";
 import Ren55 from "../../assets/img/test-img/ren_55.png";
 import Monkey1 from "../../assets/img/test-img/Monkey1.jpg";
 import Image from "../../assets/img/test-img/1.jpg";
+import GetStartedVideo from "../../assets/img/test-img/GetStartedVideo.mp4";
+
 // import CardNft from "../../assets/img/test-img/CardNft.jpg"
 
 import MindSectionInfo from "../mindSectionInfo/mindSectionInfo";
@@ -78,13 +80,20 @@ const GetStarted = () => {
       <div className="row">
         <div className="container">
           <div className="col-md-6">
+
+
+          {/* <video
+            className="video_section-style"
+            src={GetStartedVideo}
+            loop={true}
+            muted={true}
+            autoPlay={true}
+          /> */}
+
             <div class="card-style">
               <div id="front" class="card-side front ">
-                {/* <div>Front Side</div> */}
-                {/* <img src={Image} alt="monkey1" height="700px" width="700px" /> */}
               </div>
               <div id="back" class="card-side back ">
-                {/* <div>Back Side</div> */}
               </div>
             </div>
           </div>

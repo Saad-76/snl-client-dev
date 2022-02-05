@@ -145,7 +145,7 @@ import Monkey6 from "../../assets/img/test-img/Monkey6.jpg"
 
 import QuestionMark from "../../assets/img/test-img/QuestionMark.jpg"
 
-
+import SnlLogo from "../../assets/img/test-img/SnlLogo.png"
 
 
 
@@ -297,5 +297,5 @@ export {
 		Monkey6,
 
 QuestionMark,
-
+SnlLogo,
 }

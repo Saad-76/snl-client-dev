@@ -9,7 +9,7 @@ const Subscribe = () => {
   return (
     <>
       {/* <div className="  col-sm-12 col-xs-12"> */}
-      <div className="container display-style-subscribe">
+      <div className=" display-style-subscribe">
         <div className="footer-widget newsletter-widget">
           <h3 className="has-line-center">Newsletter</h3>
           <div className="widget-content">

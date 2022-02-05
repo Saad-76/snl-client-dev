@@ -53,6 +53,9 @@ padding-top: 20px;}
     align-items: center;
     justify-content: center;
     text-align: center;
+    background-image: linear-gradient( 
+        349deg
+         ,#eb3fa9,#395ff6 50%,#eb3fa9);
     /* padding-top: 20px; */
     /* padding-bottom: 100px; */
     padding: 60px;
@@ -62,7 +65,9 @@ padding-top: 20px;}
     color: white;
 }
 
-
+.subscribe-background-color{
+    background-color: grey !important;
+}
 
 
 

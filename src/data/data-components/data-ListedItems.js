@@ -32,7 +32,7 @@ import {
 		Monkey6,
 
 		QuestionMark,
-
+SnlLogo,
 
 } from '../../utils/allImgs'
 
@@ -42,56 +42,56 @@ export const ListedItemsData = [
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors2,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors3,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors8,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors6,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors2,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors3,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors8,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
 	{
 		imgBig:QuestionMark,
 		imgSm:ListedItemsAuthors6,
-		title:'@Smith Wright',
+		title:'@Coast Collectibles',
 		price:0.081,
 		bid:0.081,
 	},
